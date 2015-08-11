@@ -8,7 +8,7 @@
   "icons": [
     {"icon": "page", "link": "https://www.linkedin.com/pub/allan-hernandez/66/544/770"},
     {"icon": "social-github", "link": "/github"},
-    {"icon": "social-twitter", "link": "/twitter"},
+    {"icon": "social-twitter", "link": "/twitter"}
   ],
   "projects": [
   ]
