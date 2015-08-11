@@ -6,11 +6,9 @@
   "description": "Allan Hernandez - Harvard 2012 - Austin, Texas!",
   "resumeFile": "",
   "icons": [
-    {"icon": "page", "link": "/resume"},
+    {"icon": "page", "link": "https://www.linkedin.com/pub/allan-hernandez/66/544/770"},
     {"icon": "social-github", "link": "/github"},
     {"icon": "social-twitter", "link": "/twitter"},
-    {"icon": "paw", "link": "/corgi"},
-    {"icon": "social-reddit", "link": "https://www.reddit.com/r/corgi"}
   ],
   "projects": [
   ]
