@@ -6,10 +6,10 @@
   "description": "Allan Hernandez - Harvard 2012 - Austin, Texas!",
   "resumeFile": "",
   "icons": [
-    {"icon": "page", "link": "https://www.linkedin.com/pub/allan-hernandez/66/544/770"},
+    {"icon": "page", "link": "https://www.linkedin.com/pub/allan-hernandez"},
     {"icon": "social-github", "link": "/github"},
     {"icon": "social-twitter", "link": "/twitter"}
-    {"icon": "certificate", "link": "/fcc"}
+    {"icon": "page", "link": "/fcc"}
   ],
   "projects": [
   ]
