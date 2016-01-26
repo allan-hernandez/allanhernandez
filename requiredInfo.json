@@ -8,7 +8,7 @@
   "icons": [
     {"icon": "social-linkedin", "link": "https://www.linkedin.com/pub/allan-hernandez"},
     {"icon": "social-github", "link": "/github"},
-    {"icon": "social-twitter", "link": "/twitter"}
+    {"icon": "social-twitter", "link": "/twitter"},
     {"icon": "page", "link": "http://www.freecodecamp.com/allan-hernandez"}
   ],
   "projects": [
